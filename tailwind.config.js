@@ -41,8 +41,6 @@ export default {
         },
       },
       backgroundImage: {
-        'stars-pattern':
-          'url(\'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><circle cx="20" cy="20" r="1" fill="%23ffffff" opacity="0.3"/><circle cx="80" cy="30" r="0.5" fill="%23ffffff" opacity="0.5"/><circle cx="40" cy="70" r="1.5" fill="%23ffffff" opacity="0.2"/><circle cx="90" cy="80" r="1" fill="%23ffffff" opacity="0.4"/><circle cx="10" cy="90" r="0.8" fill="%23ffffff" opacity="0.3"/></svg>\')',
         'cosmic-gradient':
           'linear-gradient(135deg, #0c4a6e 0%, #1e293b 50%, #701a75 100%)',
       },
